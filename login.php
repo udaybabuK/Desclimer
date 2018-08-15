@@ -12,7 +12,3 @@
 </html>
 
 
-<!DOCTYPE html>
-<html>
-<body>
-
